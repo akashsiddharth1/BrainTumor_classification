@@ -23,7 +23,6 @@ The dataset includes **2,443 labeled MRI images** distributed across 4 categorie
 
 ### Directory Structure
 
-```bash
 dataset/
 ├── train/
 ├── val/
